@@ -28,3 +28,5 @@
 <div style="text-align: justify">
     <p>The supervisory group operates as a soundboard toward the implementation possibilities of the project results.</p>
 </div>
+
+<br>
