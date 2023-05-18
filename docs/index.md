@@ -11,11 +11,11 @@
 </div>
 
 <div style="text-align: justify">
-  <p>Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. In the project, we mainly focus on the machine learning part. The primary focus lies on the design of a regression model, using the case study as the backbone. We will follow a machine-learning workflow, using open-source software (e.g. Python, scikit-learn, TensorFlow/Keras) and MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a>. The development of the intelligent device is outside the scope of this project.</p>
+  <p>Machine Learning at the Extreme Edge (ML@E2dge) looks at how we can apply machine learning in the development of accurate, energy-efficient, and intelligent (wireless) (battery-powered) devices. The primary focus lies on the machine learning part - the design of a regression model - using the case study as the backbone. We will follow a machine-learning workflow, using open-source software (e.g. Python, scikit-learn, TensorFlow/Keras) and MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a>. Because of the limited time, the intelligent device's development is outside this project's scope.</p>
 </div>
 
 <div style="text-align: justify">
-    <p>During the project, additional IMU data is collected in a gait laboratory - a written request to a Medical Ethics Committee is submitted and approved - to investigate the model's ability to generalize to unseen data and Out-of-Distribution examples. We also briefly touch on uncertainty (aleatoric and Epistemic) and model explainability (e.g. Shap: SHapley Additive exPlanations).</p>
+    <p>During the project, additional IMU data is collected in a gait laboratory - a written request to a Medical Ethics Committee is submitted and approved - to investigate the model's ability to generalize to unseen data and Out-of-Distribution examples. We also briefly touch on uncertainty (aleatoric and epistemic) and model explainability (e.g. Shap: SHapley Additive exPlanations).</p>
 </div>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joeriverbiest" data-version="v1"> To get to know more, contact: <a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/joeriverbiest?trk=profile-badge">🌐<b> J. R. Verbiest, PhD MSc</b></a></div>
