@@ -21,21 +21,8 @@
 </div>
 
 <div style="text-align: justify">
-  <p>Spatiotemporal gait parameters, e.g., gait stride length, are some measurements derived from gait analysis. Today, different solutions are available for gait assessment outside the laboratory, specifically for spatiotemporal gait parameters. Such solutions are wearable devices that comprise an inertial measurement unit, IMU and a microcontroller, MCU. However, these existing wearable devices are resource constrained. They contain a processing unit with limited processing and memory capabilities, which limit the use of machine learning to estimate spatiotemporal gait parameters directly on the device. The solution is embedded machine learning or tiny machine learning (tinyML™).
-  </p>
+  <p>Spatiotemporal gait parameters, e.g., gait stride length, are some measurements derived from gait analysis. Today, different solutions are available for gait assessment outside the laboratory, specifically for spatiotemporal gait parameters. Such solutions are wearable devices that comprise an inertial measurement unit, IMU and a microcontroller, MCU. However, these existing wearable devices are resource constrained. They contain a processing unit with limited processing and memory capabilities, which limit the use of machine learning to estimate spatiotemporal gait parameters directly on the device. The solution is embedded machine learning or tiny machine learning (tinyML™). Starting from the <a href="https://www.mdpi.com/2306-5729/6/9/95"> TRIPOD dataset</a>, a regression model is developed for estimating the gait stride length. This model can be deployed on a wearable with an MCU and an IMU sensor.</p>
 </div>
-<div style="text-align: center">
-  <i>
-    <a href=https://github.com/MLatE2dge/MLatE2dge.github.io/raw/main/docs/img/workflow.png> <img src="../img/workflow.png"></a><p style="font-size: 13px"> The Embedded Machine Learning Workflow (to enlarge, click on the image). During the project, an embedded machine-learning workflow is followed. In the workflow, open-source software (Python, scikit-learn, TensorFlow, Keras, ....) is used. Besides, MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a> are used.</p></i>
-</div>
-
-
-<div style="text-align: justify">
-  <p>Starting from the <a href="https://www.mdpi.com/2306-5729/6/9/95"> TRIPOD dataset</a> and embedded machine learning workflow, a regression model is developed for estimating the gait stride length. This model can be deployed on a wearable with an MCU and an IMU sensor. Besides, additional IMU data is collected in a gait laboratory - a written request to a Medical Ethics Committee is submitted and approved - to investigate the model's ability to adapt appropriately to unseen data. Finally, strategies are formulated to improve the machine learning model design and embedded machine learning workflow.
-  </p>
-</div>
-
-## Results
 
 <div style="text-align: justify"> The research results will be published in an Open-Access scientific publication (in preparation).
 </div>
