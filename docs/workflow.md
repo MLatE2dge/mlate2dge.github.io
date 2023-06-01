@@ -20,6 +20,4 @@
 <div style="text-align: justify">
   <a href="https://github.com/JrVerbiest/Gait-Stride-Length-Estimation-Embedded-Machine-Learning">The code on the GitHub repo</a> (under construction and will be updated regularly) contains a collection of (template) Jupyter Notebooks and Python scripts.
 </div>
-
-
-
+<br>
