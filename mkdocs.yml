@@ -29,6 +29,7 @@ edit_uri: ""
 nav:
   - Home: 'index.md'
   - Case Study: 'case study.md'
+  - Embedded Machine Learning Workflow: 'workflow.md'
   - Supervisory Group: 'supervisory_group.md'
 
 extra:
