@@ -24,7 +24,7 @@
 </div>
 ### Results
 
-An open access scientific paper is in preparation.
+An open-access scientific paper is in preparation.
 
-
+<br>
 
