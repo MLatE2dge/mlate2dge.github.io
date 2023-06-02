@@ -32,4 +32,8 @@
     <p>The supervisory group operates as a soundboard toward the implementation possibilities of the project results.</p>
 </div>
 
+---
+
+<div style="text-align: justify" > <p style="font-size: 10px">Project supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences. Project duration: 1 December 2021 - 31 August 2023 (14 person-month).</div>
+
 <br>
