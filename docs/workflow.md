@@ -11,7 +11,7 @@
 </div>
 
 <div style="text-align: justify">
-  The <a href="https://github.com/JrVerbiest/Embedded-Machine-Learning-Workflow">GitHub repo</a> is under construction. This repo will contain a collection of (template) Jupyter Notebooks and Python scripts, which can be used as starting point to set up the workflow.
+  The <a href="https://github.com/JrVerbiest/Embedded-Machine-Learning-Workflow">GitHub repo</a> is under construction. This repo will contain a collection of (template) Jupyter Notebooks and Python scripts, which can be used as starting point to set up the workflow. The Weights & Biases project will become public at the end of the project.
 </div>
 
 <br>
