@@ -10,7 +10,7 @@
       
       
       
-        <link rel="next" href="workflow/">
+        <link rel="next" href="supervisory_group/">
       
       <link rel="icon" href="assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.4">
@@ -183,30 +183,6 @@
 
 
   <li class="md-tabs__item">
-    <a href="workflow/" class="md-tabs__link">
-      Embedded Machine Learning Workflow
-    </a>
-  </li>
-
-      
-        
-  
-  
-
-
-  <li class="md-tabs__item">
-    <a href="case%20study/" class="md-tabs__link">
-      Case Study
-    </a>
-  </li>
-
-      
-        
-  
-  
-
-
-  <li class="md-tabs__item">
     <a href="supervisory_group/" class="md-tabs__link">
       Supervisory Group
     </a>
@@ -280,40 +256,48 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Home
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="." class="md-nav__link md-nav__link--active">
         Home
       </a>
       
-    </li>
-  
+        
 
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
     
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
+        <li class="md-nav__item">
+  <a href="#embedded-machine-learning-workflow" class="md-nav__link">
+    Embedded Machine Learning Workflow.
+  </a>
+  
+</li>
       
+        <li class="md-nav__item">
+  <a href="#case-study-gait-stride-length-estimation" class="md-nav__link">
+    Case Study - Gait Stride Length Estimation.
+  </a>
+  
+</li>
       
-
+    </ul>
   
-  
-  
-    <li class="md-nav__item">
-      <a href="workflow/" class="md-nav__link">
-        Embedded Machine Learning Workflow
-      </a>
-    </li>
-  
-
-    
+</nav>
       
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="case%20study/" class="md-nav__link">
-        Case Study
-      </a>
     </li>
   
 
@@ -353,6 +337,28 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#embedded-machine-learning-workflow" class="md-nav__link">
+    Embedded Machine Learning Workflow.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-study-gait-stride-length-estimation" class="md-nav__link">
+    Case Study - Gait Stride Length Estimation.
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -366,9 +372,32 @@
                   
 
 
-<h1 id="machine-learning-the-extreme-edge">Machine Learning @ the Extreme Edge</h1>
+<h1 id="machine-learning-the-extreme-edge">Machine Learning @ the Extreme Edge.</h1>
 <div style="text-align: justify">
-  <p>Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. Machine Learning at the Extreme Edge (ML@E2dge) examines how to apply machine learning - workflow - to develop accurate, energy-efficient, models for these intelligent resource-constrained devices.</p>
+  <p>Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. Machine Learning at the Extreme Edge (ML@E2dge) examines how to apply embedded machine learning to develop accurate, energy-efficient models for these intelligent resource-constrained devices.</p>
+</div>
+
+<h2 id="embedded-machine-learning-workflow">Embedded Machine Learning Workflow.</h2>
+<div style="text-align: center">
+  <i>
+    <a href=https://github.com/MLatE2dge/MLatE2dge.github.io/raw/main/docs/img/workflow.png> <img src="../img/workflow.png"></a><p style="font-size: 13px"> The Embedded Machine Learning Workflow (to enlarge, click on the image). Because of the limited time, the intelligent device's development is outside this project's scope.</p></i>
+</div>
+
+<div style="text-align: justify">
+  <p>In the project, an embedded machine-learning workflow is followed, using open-source software (e.g. Python, Scikit-Learn, TensorFlow/Keras) and MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a>. In the project a healthcare regression problem is selected as case study.</p>
+</div>
+
+<h2 id="case-study-gait-stride-length-estimation">Case Study - Gait Stride Length Estimation.</h2>
+<div style="text-align: center">
+  <p><img width="400px" class="center-block" src="../img/Image - Use case.png"></p>
+</div>
+
+<div style="text-align: center">
+  <i><p style="font-size: 12px"> "This image was created with the assistance of DALL·E 2."</p></i>
+</div>
+
+<div style="text-align: justify">
+  <p>Spatiotemporal gait parameters, e.g., gait stride length, are some measurements derived from gait analysis. Today, different solutions are available for gait assessment outside the laboratory, specifically for spatiotemporal gait parameters. Such solutions are wearable devices that comprise an inertial measurement unit, IMU and a microcontroller, MCU. However, these existing wearable devices are resource constrained. They contain a processing unit with limited processing and memory capabilities, which limit the use of machine learning to estimate spatiotemporal gait parameters directly on the device. The solution is embedded machine learning or tiny machine learning (tinyML™). Starting from the <a href="https://www.mdpi.com/2306-5729/6/9/95"> TRIPOD dataset</a>, a regression model is developed for estimating the gait stride length. We explore if the model can be deployed on a resource-constrained device.</p>
 </div>
 
 <p><br></p>
