@@ -1,10 +1,8 @@
 # Machine Learning @ the Extreme Edge.
 
 <div style="text-align: justify">
-  <p>Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. Machine Learning at the Extreme Edge (ML@E2dge) examines how to apply embedded machine learning to develop accurate, energy-efficient models for these intelligent resource-constrained devices.</p>
+  <p>Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. Machine Learning at the Extreme Edge (ML@E2dge) examines applying embedded machine learning to develop accurate, energy-efficient models for these intelligent resource-constrained devices.</p>
 </div>
-
-## Embedded Machine Learning Workflow.
 
 <div style="text-align: center">
   <i>
@@ -12,10 +10,10 @@
 </div>
 
 <div style="text-align: justify">
-  <p>In the project, an embedded machine-learning workflow is followed, using open-source software (e.g. Python, Scikit-Learn, TensorFlow/Keras) and MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a>. In the project a healthcare regression problem is selected as case study.</p>
+  <p>In the project, an embedded machine-learning workflow is developed, using open-source software (e.g. Python, Scikit-Learn, TensorFlow/Keras) in combination with MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases </a>. Besides, a case study is workout and a embedded machine learning model is developed.</p>
 </div>
 
-## Case Study - Gait Stride Length Estimation.
+## Case Study: Gait Stride Length Estimation.
 
 <div style="text-align: center">
   <p><img width="400px" class="center-block" src="../img/Image - Use case.png"></p>
