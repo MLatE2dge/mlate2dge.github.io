@@ -5,12 +5,11 @@
 </div>
 
 <div style="text-align: center">
-  <i>
-    <a href=https://github.com/MLatE2dge/MLatE2dge.github.io/raw/main/docs/img/workflow.png> <img src="../img/workflow.png"></a><p style="font-size: 13px"> The Embedded Machine Learning Workflow (to enlarge, click on the image). Because of the limited time, the intelligent device's development is outside this project's scope.</p></i>
+  <i><a href=https://github.com/MLatE2dge/MLatE2dge.github.io/raw/main/docs/img/workflow.png> <img src="../img/workflow.png"></a><p style="font-size: 13px"> The Embedded Machine Learning Workflow (to enlarge, click on the image). Because of the limited time, the intelligent device's development is outside this project's scope.</p></i>
 </div>
 
 <div style="text-align: justify">
-  <p>In the project, an embedded machine-learning workflow is developed, using open-source software (e.g. Python, Scikit-Learn, TensorFlow/Keras) in combination with MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases </a>. Besides, a case study is workout and a embedded machine learning model is developed.</p>
+  <p>In the project, an embedded machine-learning workflow is developed, using open-source software (e.g. Python, Scikit-Learn, TensorFlow/Keras) in combination with MLOps (Machine Learning Operations) frameworks <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a>. Besides, given a case study an embedded machine learning model is developed.</p>
 </div>
 
 ## Case Study: Gait Stride Length Estimation.
