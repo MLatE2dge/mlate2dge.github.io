@@ -9,8 +9,6 @@
   <p>In the project, an embedded machine-learning workflow is followed. Besides, given a case study an embedded machine learning model is developed.</p>
 </div>
 
-
-
 ## Case Study: Gait Stride Length Estimation.
 
 <div style="text-align: center">
