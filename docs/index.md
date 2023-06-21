@@ -1,16 +1,15 @@
 # Machine Learning @ the Extreme Edge.
 
-<div style="text-align: justify">
-  <p>Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. Machine Learning at the Extreme Edge (ML@E2dge) examines applying embedded machine learning to develop accurate, energy-efficient models for these intelligent resource-constrained devices.</p>
-</div>
-
 <div style="text-align: center">
   <i><a href=https://github.com/MLatE2dge/MLatE2dge.github.io/raw/main/docs/img/workflow.png> <img src="../img/workflow.png"></a><p style="font-size: 13px"> The Embedded Machine Learning Workflow (to enlarge, click on the image). Because of the limited time, the intelligent device's development is outside this project's scope.</p></i>
 </div>
 
 <div style="text-align: justify">
+  <p>Today's challenge is real-time and energy-efficient information extraction and processing at the edge using Artificial Intelligence. However, a recent trend exists to implement machine learning on devices located on the extreme edge, i.e. the border between the analog (physical) and digital world. These devices consist of one or more sensors and a resource-constrained embedded device, i.e. a device with limited memory, computing power, and power consumption. Today's challenge is the development of accurate, energy-efficient machine learning models for deployment on these resource-constrained devices. Machine Learning at the Extreme Edge (ML@E2dge) examines applying embedded machine learning to develop accurate, energy-efficient models for these intelligent resource-constrained devices.</p>
   <p>In the project, an embedded machine-learning workflow is followed. Besides, given a case study an embedded machine learning model is developed.</p>
 </div>
+
+
 
 ## Case Study: Gait Stride Length Estimation.
 
