@@ -28,7 +28,6 @@ edit_uri: ""
 
 nav:
   - Home: 'index.md'
-  - Supervisory Group: 'supervisory_group.md'
 
 extra:
   social:

@@ -1,6 +1,8 @@
 
 
-# Machine Learning @ the Extreme Edge.
+# Machine Learning @ the Extreme Edge
+
+<div style="text-align: center"><p style="font-size: 20px">Researcher: <a href="https://jrverbiest.github.io/">Joeri Verbiest</a></p></div>
 
 <div style="text-align: center">
   <p><img width="400px" class="center-block" src="../img/Image - Project.png"></p>
@@ -24,3 +26,7 @@
 <div style="text-align: justify"><p>Starting from the <a href="https://www.mdpi.com/2306-5729/6/9/95"> TRIPOD dataset</a> consisting of gait strides from 15 healthy people, measured by IMU sensor, and using state-of-the-art machine learning frameworks - <a href="https://www.tensorflow.org">TensorFlow</a> and <a href="https://keras.io">Keras</a> -  and machine learning operations (MLOps) tools - <a href="https://www.edgeimpulse.com/">Edge Impulse Studio</a> and <a href="https://wandb.ai/">Weights and Biases</a> - a multilayer 1D convolutional float32 and int8 model for gait stride length estimation is developed.</p></div> 
 
 <div style="text-align: justify"><p>The results, published in an Open-Source publication (proofreading ongoing), shows that estimating gait stride length directly on a microcontroller is feasible and demonstrates the potential of embedded machine learning or tinyML in designing wearable sensor devices for gait analysis.</p></div>
+
+---
+
+<div style="text-align: justify" > <p style="font-size: 10px">Project supported by the Karel de Grote University of Applied Sciences and Arts through funding by the Flemish government specifically allocated to practice-based research at universities of applied sciences. Project duration: 1 December 2021 - 31 August 2023 (14 person-month).</div>
