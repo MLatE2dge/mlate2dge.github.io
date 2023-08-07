@@ -1,6 +1,6 @@
 # Supervisory Group
 
-<div style="text-align: center"><p><img width="400px" class="center-block" src="../img/Image - Supervisory Group .png">
+<div style="text-align: center"><p><img width="400px" class="center-block" src="../img/Image - Supervisory Group.png">
   </p>
 </div>
 <div style="text-align: center">
@@ -12,6 +12,7 @@
 <div>
   <p>Researcher: <a href="https://jrverbiest.github.io/">Joeri Verbiest, PhD MSc</a></p>
 </div>
+
 
 <div>
   <h2>The members</h2>
